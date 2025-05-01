@@ -5,7 +5,7 @@ import Hero from '../components/common/Hero';
 import Card from '../components/common/Card';
 import Button from '../components/common/Button';
 import { blogPosts } from '../data/blog';
-import { FaCalendarAlt, FaUser, FaTag, FaSearch } from 'react-icons/fa';
+import { FaCalendarAlt, FaUser, FaSearch } from 'react-icons/fa';
 import NewsletterSection from '../components/sections/NewsletterSection';
 
 const BlogPage = () => {
