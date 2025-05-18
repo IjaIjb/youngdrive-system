@@ -1,7 +1,6 @@
 // src/pages/AboutPage.tsx
 import { useEffect } from 'react';
 import Hero from '../components/common/Hero';
-import TeamSection from '../components/sections/TeamSection';
 import NewsletterSection from '../components/sections/NewsletterSection';
 import { FaRocket, FaEye, FaHandshake, FaUsers } from 'react-icons/fa';
 

@@ -2,9 +2,7 @@
 import { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import Hero from '../components/common/Hero';
-import StoryCard from '../components/common/StoryCard';
 import Button from '../components/common/Button';
-import { stories } from '../data/stories';
 import NewsletterSection from '../components/sections/NewsletterSection';
 
 const StoriesPage = () => {
