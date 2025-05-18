@@ -54,7 +54,7 @@ const GetInvolvedPage = () => {
             </p>
           </div>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 mb-16">
+          <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-16">
             <Button
               variant={activeSection === 'volunteer' ? 'primary' : 'outline-primary'}
               onClick={() => scrollToSection('volunteer')}
@@ -87,14 +87,14 @@ const GetInvolvedPage = () => {
             >
               <FaShareAlt /> Spread the Word
             </Button>
-            <Button
+            {/* <Button
               variant={activeSection === 'start-initiative' ? 'primary' : 'outline-primary'}
               onClick={() => scrollToSection('start-initiative')}
               fullWidth
               className="flex items-center justify-center gap-2"
             >
               <FaLightbulb /> Start Initiative
-            </Button>
+            </Button> */}
           </div>
           
           <div className="space-y-24">
@@ -278,7 +278,7 @@ const GetInvolvedPage = () => {
                     Your financial support makes our work possible. Every contribution, regardless of size, helps us empower more young leaders across Africa.
                   </p>
                   
-                  <div className="bg-primary bg-opacity-10 p-6 rounded-lg mb-6">
+                  {/* <div className="bg-primary bg-opacity-10 p-6 rounded-lg mb-6">
                     <h3 className="text-xl font-bold mb-4">Your Impact</h3>
                     <ul className="space-y-4">
                       <li className="flex items-center">
@@ -306,7 +306,7 @@ const GetInvolvedPage = () => {
                         <p className="text-gray-700">Funds a digital lab in an underserved school for a month</p>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
                 
                 <div className="bg-white p-6 rounded-lg shadow-md">

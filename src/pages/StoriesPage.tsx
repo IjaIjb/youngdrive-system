@@ -67,7 +67,7 @@ const StoriesPage = () => {
         backgroundImage="https://images.unsplash.com/photo-1484876065684-b683cf17d276?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
       />
 
-      <section className="section bg-white">
+      {/* <section className="section bg-white">
         <div className="container-custom">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Featured Stories</h2>
@@ -82,7 +82,7 @@ const StoriesPage = () => {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="section bg-primary bg-opacity-10">
         <div className="container-custom">

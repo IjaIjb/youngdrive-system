@@ -140,7 +140,7 @@ const InitiativesPage = () => {
                             </ul>
                           </div>
                           
-                          <div className="bg-primary bg-opacity-10 p-6 rounded-lg">
+                          {/* <div className="bg-primary bg-opacity-10 p-6 rounded-lg">
                             <h4 className="font-bold text-gray-800 mb-2">Success Story</h4>
                             <div className="italic text-gray-700 mb-4">
                               {initiative.id === 'ai-for-africa' && 
@@ -155,7 +155,7 @@ const InitiativesPage = () => {
                             <Button to="/stories" variant="outline-primary" size="sm">
                               Read More Stories
                             </Button>
-                          </div>
+                          </div> */}
                           
                           <div className="mt-8">
                             <Button to="/get-involved" variant="primary">

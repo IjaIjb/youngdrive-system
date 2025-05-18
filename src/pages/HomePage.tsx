@@ -34,7 +34,7 @@ const HomePage = () => {
           <Button to="/get-involved" variant="accent" size="lg">
             Join the Movement
           </Button>
-          <Button to="/stories" variant="outline-primary" size="lg">
+          <Button to="/stories"  size="lg">
             Share Your Story
           </Button>
         </div>

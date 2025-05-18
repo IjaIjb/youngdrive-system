@@ -49,11 +49,11 @@ const Navbar = ({ isScrolled, isHomePage }: NavbarProps) => {
             Resources
           </NavLink>
         </li>
-        <li>
+        {/* <li>
           <NavLink to="/blog" className={({ isActive }) => isActive ? activeLinkClass : linkClass}>
             Blog
           </NavLink>
-        </li>
+        </li> */}
         <li>
           <NavLink to="/get-involved" className={({ isActive }) => isActive ? activeLinkClass : linkClass}>
             Get Involved

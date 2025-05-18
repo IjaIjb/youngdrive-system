@@ -4,7 +4,7 @@ import Hero from '../components/common/Hero';
 import Card from '../components/common/Card';
 import Button from '../components/common/Button';
 import { projects } from '../data/projects';
-import { FaCalendarAlt, FaMapMarkerAlt, FaClock } from 'react-icons/fa';
+import { FaCalendarAlt, FaMapMarkerAlt } from 'react-icons/fa';
 import NewsletterSection from '../components/sections/NewsletterSection';
 
 const ProjectsPage = () => {
@@ -291,7 +291,7 @@ const ProjectsPage = () => {
               </Button>
             </div>
             
-            <div className="bg-white p-6 rounded-lg shadow-md">
+            {/* <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-2xl font-bold mb-6">Project Spotlight</h3>
               <div className="mb-4 rounded-lg overflow-hidden">
                 <img 
@@ -346,7 +346,7 @@ const ProjectsPage = () => {
               <Button to="/get-involved" variant="outline-primary" fullWidth>
                 Support This Project
               </Button>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

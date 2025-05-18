@@ -7,7 +7,7 @@ export const initiatives: Initiative[] = [
     id: 'ai-for-africa',
     name: 'Tech Africa',
     description: 'Bridging the digital divide with tech, AI and data advocacy.',
-    goal: 'Train 100,000 youth in AI/Data Science by 2030',
+    goal: 'Train 10,000 youth in digital technologies like AI/Data Science by 2030',
     activities: [
       'Free online bootcamps (Python, PowerBI)',
       'Data privacy advocacy workshops',
@@ -24,7 +24,7 @@ export const initiatives: Initiative[] = [
     id: 'education-for-all',
     name: 'Education for All',
     description: 'Breaking barriers to quality education through scholarships and tech labs.',
-    goal: 'Eliminate education inequality in 10 African nations',
+    goal: 'Support 50 students yearly to overcome education inequality.',
     activities: [
       'GRE/GMAT prep webinars',
       'Digital labs in rural schools',
@@ -41,11 +41,10 @@ export const initiatives: Initiative[] = [
     id: 'climate-action',
     name: 'Climate Action Warriors',
     description: 'Youth-led climate action and advocacy projects across the continent.',
-    goal: 'Plant 1 million trees by 2025',
+    goal: 'Enable 20 Climate led programs or business yearly',
     activities: [
       'Urban gardening workshops',
       'Clean energy advocacy',
-      'Podcast: "Green Futures Africa"',
       'Community-based recycling programs'
     ],
     progress: 45,
@@ -58,7 +57,7 @@ export const initiatives: Initiative[] = [
     id: 'gender-advocacy',
     name: 'Gender Advocacy',
     description: 'Financial inclusion and mentorship for young women across Africa.',
-    goal: 'Support 50,000 women entrepreneurs by 2030',
+    goal: 'Support 50 women to overcome inequality in various areas.',
     activities: [
       'Microloans for small businesses',
       'Financial literacy training',

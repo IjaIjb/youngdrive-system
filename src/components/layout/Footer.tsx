@@ -52,8 +52,8 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Contact</h3>
             <p className="text-gray-300 mb-2">Email: info@youngdrive.org</p>
-            <p className="text-gray-300 mb-2">Phone: +254 123 456 789</p>
-            <p className="text-gray-300">Nairobi, Kenya</p>
+            <p className="text-gray-300 mb-2">Phone: +2347037224570</p>
+            <p className="text-gray-300">Abuja, Nigeria</p>
           </div>
         </div>
         
