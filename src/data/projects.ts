@@ -76,7 +76,7 @@ export const projects: Project[] = [
     },
     status: 'completed',
     location: 'Nigeria',
-    imageUrl: 'https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
+    imageUrl: '/premium_photo-1723291238875-b9f0f5a8b95c.avif',
     callToAction: {
       text: 'Register for Summit 2.0',
       link: '/get-involved'
@@ -108,7 +108,7 @@ export const projects: Project[] = [
     },
     status: 'active',
     location: 'Tanzania, Malawi, Zambia',
-    imageUrl: 'https://images.unsplash.com/photo-1571260899304-425eee4c7efc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
+    imageUrl: '/istockphoto-1440160796-612x612.webp',
     callToAction: {
       text: 'Donate Equipment',
       link: '/get-involved'
@@ -124,7 +124,7 @@ export const projects: Project[] = [
     },
     status: 'planned',
     location: 'Ghana',
-    imageUrl: 'https://images.unsplash.com/photo-1569534065318-35f7e7c3334d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
+    imageUrl: '/istockphoto-1408969174-612x612.webp',
     callToAction: {
       text: 'Register Interest',
       link: '/get-involved'

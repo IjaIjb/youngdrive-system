@@ -27,7 +27,7 @@ const HomePage = () => {
           </div>
         }
         subtitle="Through technology, education, and advocacy, we equip young leaders with the tools to transform Africa's future."
-        backgroundImage="https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        backgroundImage="https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
         fullHeight
       >
         <div className="flex flex-wrap gap-4 mt-8">

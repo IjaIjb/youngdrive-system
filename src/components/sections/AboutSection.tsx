@@ -29,7 +29,7 @@ const AboutSection = () => {
             </div>
             <div className="relative h-40 md:h-72 rounded-lg overflow-hidden mt-8">
               <img 
-                src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" 
+                src="/istockphoto-1462151889-612x612.webp" 
                 alt="Climate action project" 
                 className="w-full h-full object-cover"
               />
@@ -43,7 +43,7 @@ const AboutSection = () => {
             </div>
             <div className="relative h-40 md:h-72 rounded-lg overflow-hidden mt-8">
               <img 
-                src="https://images.unsplash.com/photo-1489486501123-5c1af10d0276?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" 
+                src="/premium_photo-1707155465798-dd7c3e9c0d6c.avif" 
                 alt="Entrepreneurship workshop" 
                 className="w-full h-full object-cover"
               />

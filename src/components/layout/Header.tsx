@@ -28,14 +28,16 @@ const Header = () => {
     >
       <div className="container-custom flex justify-between items-center">
         <Link to="/" className="flex items-center">
-          <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center text-white mr-2">
+          {/* <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center text-white mr-2">
             <span className="font-heading font-bold text-xl">Y</span>
-          </div>
+          </div> 
           <span className={`font-heading font-bold text-xl ${
             isScrolled || !isHomePage ? 'text-primary' : 'text-white'
           }`}>
             Youngdrive
-          </span>
+          </span> */}
+          <img src='/logo.png' alt='' 
+          className='w-[100px] h-[100px]'/>
         </Link>
         
         <div className="hidden md:flex items-center space-x-4">
