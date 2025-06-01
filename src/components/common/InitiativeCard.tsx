@@ -28,7 +28,7 @@ const InitiativeCard = ({ initiative, featured = false }: InitiativeCardProps) =
 
   if (featured) {
     return (
-      <Card className="initiative-card transition-all duration-300 flex flex-col h-full">
+      <Card className="initiative-card transition-all duration-300 flex flex-col justify-between h-full">
         <div className="flex items-start gap-4">
           <div className="p-3 bg-gray-100 rounded-lg">
             {getIcon(initiative.icon)}

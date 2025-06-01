@@ -7,9 +7,9 @@ import Button from '../components/common/Button';
 import AboutSection from '../components/sections/AboutSection';
 import FeaturedInitiativesSection from '../components/sections/FeaturedInitiativesSection';
 // import ImpactStatsSection from '../components/sections/ImpactStatsSection';
-import LatestStoriesSection from '../components/sections/LatestStoriesSection';
+// import LatestStoriesSection from '../components/sections/LatestStoriesSection';
 import NewsletterSection from '../components/sections/NewsletterSection';
-import PartnersSection from '../components/sections/PartnersSection';
+// import PartnersSection from '../components/sections/PartnersSection';
 
 const HomePage = () => {
   useEffect(() => {
@@ -27,7 +27,7 @@ const HomePage = () => {
           </div>
         }
         subtitle="Through technology, education, and advocacy, we equip young leaders with the tools to transform Africa's future."
-        backgroundImage="https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+        backgroundImage="/photo-1627897495484-229b29feb0d5.avif"
         fullHeight
       >
         <div className="flex flex-wrap gap-4 mt-8">
@@ -46,7 +46,7 @@ const HomePage = () => {
       
       <AboutSection />
       
-      <LatestStoriesSection />
+      {/* <LatestStoriesSection /> */}
 
       <section className="section bg-primary text-white">
         <div className="container-custom">
@@ -101,7 +101,7 @@ const HomePage = () => {
         </div>
       </section>
       
-      <PartnersSection />
+      {/* <PartnersSection /> */}
       
       <NewsletterSection />
     </>

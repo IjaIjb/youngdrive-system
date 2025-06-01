@@ -15,11 +15,12 @@ const NewsletterSection = () => {
   };
 
   return (
-    <section className="section bg-primary text-white">
+    <section className="section  ">
+    {/* <section className="section bg-primary text-white"> */}
       <div className="container-custom">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Stay Updated</h2>
-          <p className="text-lg mb-8 text-white opacity-90">
+          <p className="text-lg mb-8  opacity-90">
             Join our newsletter to receive updates on programs, success stories, and opportunities.
           </p>
           
@@ -35,7 +36,7 @@ const NewsletterSection = () => {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Your email address"
-                className="flex-grow p-3 rounded-md text-gray-800 focus:outline-none focus:ring-2 focus:ring-accent"
+                className="flex-grow p-3 rounded-md text-gray-800 border border-primary focus:outline-none focus:ring-2 focus:ring-accent"
                 required
               />
               <Button type="submit" variant="accent">
