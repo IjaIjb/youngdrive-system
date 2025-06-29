@@ -105,7 +105,7 @@ const AboutPage = () => {
             <div className="relative border-l-4 border-primary pl-6 pb-10">
               <div className="absolute w-4 h-4 rounded-full bg-primary -left-2 top-2"></div>
               <div className="mb-6">
-                <span className="text-sm font-bold text-gray-500 block mb-1">2025</span>
+                <span className="text-sm font-bold text-gray-500 block mb-1">2026</span>
                 <h3 className="text-2xl font-bold text-gray-900 mb-2">Pan-African Expansion</h3>
                 <p className="text-gray-700">
                 Through strategic partnerships with universities and NGOs, Youngdrive plans to expand to 15 African countries, running programs in tech education, environmental conservation, and gender equity. 

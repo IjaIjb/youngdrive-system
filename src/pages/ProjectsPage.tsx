@@ -307,7 +307,7 @@ const ProjectsPage = () => {
               <div className="flex justify-between items-center text-gray-600 text-sm mb-4">
                 <div className="flex items-center">
                   <FaCalendarAlt className="mr-1" />
-                  <span>Jan 2024 - Dec 2025</span>
+                  <span>Jan 2024 - Dec 2026</span>
                 </div>
                 <div className="flex items-center">
                   <FaClock className="mr-1" />

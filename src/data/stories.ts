@@ -56,7 +56,7 @@ export const stories: Story[] = [
     content: 'When a multinational mining company began operations near Thomas\'s village, the community soon noticed changes in their water...',
     author: {
       name: 'Thomas Mensah',
-      location: 'Accra, Ghana',
+      location: 'Nigeria',
       imageUrl: 'https://images.unsplash.com/photo-1548123378-bde4aeec7c7c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
     },
     imageUrl: 'https://images.unsplash.com/photo-1578496479531-32e296d5c6e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
@@ -66,4 +66,5 @@ export const stories: Story[] = [
       link: '/get-involved'
     }
   }
+  
 ];

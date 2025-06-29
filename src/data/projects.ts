@@ -24,8 +24,9 @@ export const projects: Project[] = [
     description: 'Comprehensive training program equipping youth with data analysis and artificial intelligence skills for the modern job market.',
     timeline: {
       start: '2023-09',
-      end: '2025-12'
+      end: '2026-12'
     },
+    
     status: 'active',
     location: 'Nigeria',
     imageUrl: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
@@ -40,7 +41,7 @@ export const projects: Project[] = [
     description: 'Hands-on training program to develop skills in event planning, coordination, and management for professional development.',
     timeline: {
       start: '2023-07',
-      end: '2025-12'
+      end: '2026-12'
     },
     status: 'active',
     location: 'Nigeria',
@@ -56,7 +57,7 @@ export const projects: Project[] = [
     description: 'Vocational training in makeup, hair dressing, and other artisan skills to empower women with sustainable livelihoods.',
     timeline: {
       start: '2023-10',
-      end: '2025-12'
+      end: '2026-12'
     },
     status: 'active',
     location: 'Nigeria',
@@ -107,7 +108,7 @@ export const projects: Project[] = [
       end: '2026-12'
     },
     status: 'active',
-    location: 'Tanzania, Malawi, Zambia',
+    location: 'Nigeria',
     imageUrl: '/istockphoto-1440160796-612x612.webp',
     callToAction: {
       text: 'Donate Equipment',
@@ -119,11 +120,11 @@ export const projects: Project[] = [
     name: 'Climate Sensitization Outreach',
     description: 'An ongoing initiative educating communities about climate change, its impacts, and sustainable practices.',
     timeline: {
-      start: '2025-04',
+      start: '2026-04',
       end: '2026-04'
     },
     status: 'planned',
-    location: 'Ghana',
+    location: 'Nigeria',
     imageUrl: '/istockphoto-1408969174-612x612.webp',
     callToAction: {
       text: 'Register Interest',
@@ -135,8 +136,8 @@ export const projects: Project[] = [
     name: 'Youth Leadership and Inclusivity Summit 2.0',
     description: 'The second iteration of our successful leadership summit, focusing on empowering youth with leadership skills and promoting inclusive practices.',
     timeline: {
-      start: '2025-01',
-      end: '2025-01'
+      start: '2026-01',
+      end: '2026-01'
     },
     status: 'planned',
     location: 'Nigeria',
